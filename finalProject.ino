@@ -1,3 +1,5 @@
+//Vincent Luong and Yuhan Tang
+
 #include <SimpleDHT.h>
 #include <LiquidCrystal.h>
 #include <Wire.h>
